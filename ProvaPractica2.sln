@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaPractica2", "ProvaPractica2\ProvaPractica2.csproj", "{821886F1-811A-4334-AEC2-5FE5D15DC0F1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilsLibrary", "UtilsLibrary\UtilsLibrary.csproj", "{D43BE098-3E05-49D1-BE3D-6D05C3297C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject-prova2", "TestProject-prova2\TestProject-prova2.csproj", "{DBB5D318-5D35-4205-ACBC-0AA95077E168}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D43BE098-3E05-49D1-BE3D-6D05C3297C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D43BE098-3E05-49D1-BE3D-6D05C3297C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D43BE098-3E05-49D1-BE3D-6D05C3297C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB5D318-5D35-4205-ACBC-0AA95077E168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB5D318-5D35-4205-ACBC-0AA95077E168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB5D318-5D35-4205-ACBC-0AA95077E168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB5D318-5D35-4205-ACBC-0AA95077E168}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
