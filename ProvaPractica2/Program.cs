@@ -35,7 +35,7 @@ namespace provaPractica2
             } while (!isValid);
             isValid = false;
 
-            //Month input
+            //Month  input
             do
             {
                 Console.Write(SecondMessage);
