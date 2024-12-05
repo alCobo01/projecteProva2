@@ -7,5 +7,8 @@ Order, amb l'array a ordenar, l'índex 0 i el índex més gran de l'array. En aq
 És un algorisme de ordenació recursiu, de divide and conquer. També l'he utilitzat pel seu rendiment,
 ja que comparat amb el BubbleSort és molt més ràpid.
 
+## Exercici 3
+Fet y entregat per pull request
+
 ## Exercici 4
 Fet en paper
