@@ -12,3 +12,6 @@ Fet y entregat per pull request
 
 ## Exercici 4
 Fet en paper
+
+## Exercici 6
+Només m'ha donat temps a fer tres tests sense molt sentit...
